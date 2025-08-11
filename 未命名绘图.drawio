@@ -41,17 +41,6 @@
         <mxCell id="CQ-CZwCqR9lB9JC6au3v-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CQ-CZwCqR9lB9JC6au3v-5">
           <mxGeometry x="45" y="340" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CQ-CZwCqR9lB9JC6au3v-12" value="2、ASR识别" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-1" target="aM9ryv3xv72pqoxQDRHE-1">
-          <mxGeometry x="-0.2849" width="80" relative="1" as="geometry">
-            <mxPoint x="330" y="160" as="sourcePoint" />
-            <mxPoint x="400" y="200" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="370" y="160" />
-              <mxPoint x="370" y="180" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CQ-CZwCqR9lB9JC6au3v-13" value="3、意图识别" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0011" width="80" relative="1" as="geometry">
             <mxPoint x="315" y="195" as="sourcePoint" />
@@ -80,6 +69,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="305" y="130" width="10" height="380" as="geometry" />
+        </mxCell>
         <mxCell id="CQ-CZwCqR9lB9JC6au3v-18" value="7、返回职位列表" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.519;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CQ-CZwCqR9lB9JC6au3v-6" target="aM9ryv3xv72pqoxQDRHE-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="260" as="sourcePoint" />
@@ -87,12 +79,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="305" y="150" width="10" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-3" value="1、语音找工作" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" target="aM9ryv3xv72pqoxQDRHE-2" edge="1">
-          <mxGeometry x="-0.0036" relative="1" as="geometry">
-            <mxPoint x="160" y="150" as="sourcePoint" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-3" value="1、语音找工作" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0011" relative="1" as="geometry">
+            <mxPoint x="160" y="138" as="sourcePoint" />
+            <mxPoint x="305" y="137.83333333333337" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -163,6 +153,19 @@
               <mxPoint x="525" y="489" />
             </Array>
             <mxPoint x="500" y="489" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CQ-CZwCqR9lB9JC6au3v-47" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="311" y="158" width="10" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="CQ-CZwCqR9lB9JC6au3v-48" value="2、ASR识别" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="316" y="142" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="346" y="172" />
+            </Array>
+            <mxPoint x="321" y="172" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
