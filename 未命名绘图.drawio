@@ -131,8 +131,8 @@
         </mxCell>
         <mxCell id="CQ-CZwCqR9lB9JC6au3v-37" value="返回投递结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.002" relative="1" as="geometry">
-            <mxPoint x="484" y="424" as="sourcePoint" />
-            <mxPoint x="313.6666666666665" y="424.0000000000001" as="targetPoint" />
+            <mxPoint x="484" y="420" as="sourcePoint" />
+            <mxPoint x="313.6666666666665" y="420.0000000000001" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
